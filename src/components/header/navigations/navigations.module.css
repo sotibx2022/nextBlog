@@ -1,0 +1,13 @@
+.logOut {
+    background-color: var(--text);
+    padding: 0.5rem 1rem;
+  }
+  .headerColumn{
+    display: flex;
+    flex-direction: column;
+    gap:1rem;
+  }
+  .headerRow{
+    display: flex;
+    flex-direction: row;
+  }
